@@ -4,7 +4,7 @@
 
 Welcome to Portfolio, a captivating project developed with Next.js that puts your achievements, skills, and experiences on display. Craft a personalized portfolio website to impress potential employers, clients, or simply share your journey with the world.
 
-## 🎉 Features
+## Features
 
 - **Customizable Design**: Create a portfolio that reflects your unique style with customizable themes and layouts.
 
@@ -17,7 +17,7 @@ Welcome to Portfolio, a captivating project developed with Next.js that puts you
 - **Contact and Social Links**: Provide easy ways for visitors to get in touch and connect with you.
 
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -47,7 +47,7 @@ Welcome to Portfolio, a captivating project developed with Next.js that puts you
 
 6. Open your browser and visit [**http://localhost:3000**](http://localhost:3000) to experience the power of your Portfolio!
 
-🎨 Technologies Used
+## Technologies Used
 
 The following technologies were used to create this portfolio:
 
@@ -61,18 +61,18 @@ The following technologies were used to create this portfolio:
 - SCSS
 - Framer Motion
 
-## 👩‍💻 Contributing
+## Feedback and Contributions
 
 Elevate your portfolio and contribute to the art of self-expression! Here's how you can contribute:
 
 * [**Open an issue**](https://github.com/adi-igit/Portfolio/issues) for suggestions, bug reports, or new features.
 * Fork the repository and submit a pull request to add your enhancements to the portfolio experience.
 
-* ## 📜 License
+* ## License
 
 Riseup is released under the [**MIT License**](https://github.com/adi-igit/Portfolio/blob/main/LICENSE). Get ready to rise above challenges and shape your path to success!
 
-## 🎨 Color Reference
+## Color Reference
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |

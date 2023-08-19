@@ -87,4 +87,4 @@ Riseup is released under the [**MIT License**](https://github.com/adi-igit/Portf
 
 Craft your digital narrative with Portfolio, a dynamic Next.js application. Showcase your skills, projects, and experiences to leave a lasting impression on the world.
 
-Here's to your journey! 🚀🌟
+Here's to your journey!
